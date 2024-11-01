@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unlimited Contact Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-09 11:16+0100\n"
+"PO-Revision-Date: 2011-10-09 11:18+0100\n"
+"Last-Translator: Lihwem <dev@dev.net>\n"
+"Language-Team: GeekPress <contact@geekpress.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/jonathanbuttigieg/Desktop/CMS - Zend Framework/WordPress/Plugin/unlimited-contact-info\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/jonathanbuttigieg/Desktop/CMS - Zend Framework/WordPress/Plugin/unlimited-contact-info\n"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:154
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:334
+msgid "Field Name"
+msgstr "Nom du champ"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:192
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:334
+msgid "Remove the row"
+msgstr "Supprimer le champ"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:195
+#, php-format
+msgid "Code to insert into the template file to display the value : &lt;?php the_author_meta(\"%s\", $current_author->ID); ?&gt;"
+msgstr "Code à insérer dans le fichier de template pour afficher la valeur : &lt;?php the_author_meta(\"%s\", $current_author->ID); ?&gt;"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:207
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:304
+msgid "New Contact Info"
+msgstr "Nouveaux champs de contact"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:250
+msgid "Unlimited Contact Info"
+msgstr ""
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:263
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les autorisations suffisantes pour accéder à cette page."
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:269
+msgid "Unlimited Contact Info Manager"
+msgstr ""
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:273
+msgid "Default Contact Info"
+msgstr "Champs de contact par défaut"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:276
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:279
+msgid "Check to disable fields"
+msgstr "Cocher pour désactiver les champs"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:281
+msgid "Disable AIM field"
+msgstr "Désactiver le champ AIM"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:286
+msgid "Disable Yahoo IM field"
+msgstr "Désactiver le champ Yahoo IM"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:291
+msgid "Disable Jabber/Google Talks field"
+msgstr "Désactiver le champ Jabber/Google Talk"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:317
+msgid "Add a new field"
+msgstr "Ajouter un nouveau champ"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/unlimited-contact-info/unlimited-contact-info.php:321
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
